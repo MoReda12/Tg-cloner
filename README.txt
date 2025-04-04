@@ -194,3 +194,9 @@ Example:
 
 REPLACE_TEXT=True
 TEXT_REPLACEMENTS=OldName:NewName,http://oldlink.com:http://newlink.com,badword:*
+
+
+
+contact:
+- Email: instamoreda13@gmail.com
+- telegram: justmo69
